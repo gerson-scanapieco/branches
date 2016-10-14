@@ -9,3 +9,5 @@ to test Elixir Github API clients. This file will be used for testing.
 
 This section will be edited by various commits in order to test Elixir Github API
 clients capabilities.
+
+- Added in branch-2
